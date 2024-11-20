@@ -21,7 +21,7 @@ Descripción: Exploración de datos de la API de Spotify y otras fuentes para id
 
 Herramientas: Python, SQL, APIs, pandas
 
-Ver el Proyecto
+[Ver el Proyecto](https://github.com/Aniitaa7/proyecto-da-promo-k-modulo-2-team-4.git)
 
 🎮 Creación de Tres Juegos Clásicos con Python
 Descripción: Reimaginación creativa de tres juegos clásicos:
@@ -34,7 +34,7 @@ Descripción: Reimaginación creativa de tres juegos clásicos:
 
 Herramientas: Python
 
-Ver el Proyecto
+[Ver el Proyecto](https://github.com/maria-ariza/juegos_clasicos_python.git)
 
 # 🚀 Próximos Pasos #
 Ampliar el alcance de los proyectos con datos en tiempo real:
@@ -43,8 +43,6 @@ Ampliar el alcance de los proyectos con datos en tiempo real:
 Descripción: Análisis de datos de ventas de una tienda en línea, identificando productos más vendidos y patrones estacionales.
 
 Herramientas: Python, Excel, Tableau
-
-Ver el Proyecto
 
 # 📬 Contacto #
 Correo: ariza.maria@outlook.com
@@ -77,7 +75,7 @@ Description: Data exploration using Spotify's API and other sources to identify 
 
 Tools: Python, SQL, APIs, pandas
 
-View Project
+[Ver el Proyecto](https://github.com/Aniitaa7/proyecto-da-promo-k-modulo-2-team-4.git)
 
 🎮 Creating Three Classic Games with Python
 Description: A creative reimagining of three classic games:
@@ -90,7 +88,7 @@ Hangman: Offers themed categories and a turn counter.
 
 Tools: Python
 
-View Project
+[Ver el Proyecto](https://github.com/maria-ariza/juegos_clasicos_python.git)
 
 # 🚀 Next Steps #
 Expand projects with real-time data integration:
@@ -99,8 +97,6 @@ Expand projects with real-time data integration:
 Description: Analyzed sales data from an online store to identify top-selling products and seasonal patterns.
 
 Tools: Python, Excel, Tableau
-
-View Project
 
 # 📬 Contact #
 Email: ariza.maria@outlook.com
