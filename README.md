@@ -40,6 +40,7 @@ Herramientas: Python
 Ampliar el alcance de los proyectos con datos en tiempo real:
 
 📊 Visualización de Ventas en E-commerce (En progreso)
+
 Descripción: Análisis de datos de ventas de una tienda en línea, identificando productos más vendidos y patrones estacionales.
 
 Herramientas: Python, Excel, Tableau
@@ -94,6 +95,7 @@ Tools: Python
 Expand projects with real-time data integration:
 
 📊 E-commerce Sales Visualization (In progress)
+
 Description: Analyzed sales data from an online store to identify top-selling products and seasonal patterns.
 
 Tools: Python, Excel, Tableau
