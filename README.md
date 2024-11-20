@@ -11,7 +11,7 @@ Automatización y APIs: Selenium, BeautifulSoup, Requests
 Gestión de Datos: PostgreSQL, MySQL
 Otros: Excel avanzado, Git/GitHub
 
-# 📁 Proyectos Destacados #
+# 📁 Proyectos #
 🎵 Análisis de Tendencias Musicales (2000 - Actualidad)
 Descripción: Exploración de datos de la API de Spotify y otras fuentes para identificar tendencias musicales a lo largo del tiempo.
 Herramientas: Python, SQL, APIs, pandas
