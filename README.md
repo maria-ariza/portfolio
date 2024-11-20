@@ -5,10 +5,14 @@ Bienvenido/a a mi portafolio de análisis de datos. Aquí encontrarás proyectos
 Soy una apasionada del análisis de datos, en proceso de reorientar mi carrera hacia este apasionante sector. Mis habilidades incluyen el uso de Python, SQL y herramientas de visualización para extraer valor de los datos. Tengo experiencia previa en fotografía de producto, gestión de campañas digitales y creación de contenido, habilidades que ahora aplico en la presentación efectiva de datos.
 
 # 🛠️ Herramientas y Tecnologías #
-Lenguajes de Programación: Python (pandas, numpy, matplotlib, seaborn), SQL \n
+Lenguajes de Programación: Python (pandas, numpy, matplotlib, seaborn), SQL
+
 Análisis y Visualización: Tableau, Power BI, Matplotlib, Seaborn
+
 Automatización y APIs: Selenium, BeautifulSoup, Requests
+
 Gestión de Datos: PostgreSQL, MySQL
+
 Otros: Excel avanzado, Git/GitHub
 
 # 📁 Proyectos #
