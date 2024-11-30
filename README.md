@@ -52,7 +52,7 @@ LinkedIn: https://www.linkedin.com/in/maria-ariza/
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# 🎯 Data Analysis Portfolio (English)#
+# 🎯 Data Analysis Portfolio (English) #
 Welcome to my data analysis portfolio. Here you’ll find projects showcasing my skills and knowledge in data analysis, from data extraction and cleaning to uncovering insights through analysis and visualization. I also include some creative programming projects as part of my learning journey.
 
 # 📚 About Me #
