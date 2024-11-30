@@ -17,6 +17,7 @@ Otros: Excel avanzado, Git/GitHub
 
 # 📁 Proyectos #
 🎵 Análisis de Tendencias Musicales (2000 - Actualidad)
+
 Descripción: Exploración de datos de la API de Spotify y otras fuentes para identificar tendencias musicales a lo largo del tiempo.
 
 Herramientas: Python, SQL, APIs, pandas
@@ -24,6 +25,7 @@ Herramientas: Python, SQL, APIs, pandas
 [Ver el Proyecto](https://github.com/Aniitaa7/proyecto-da-promo-k-modulo-2-team-4.git)
 
 🎮 Creación de Tres Juegos Clásicos con Python
+
 Descripción: Reimaginación creativa de tres juegos clásicos:
 
 - Juego de preguntas: Adaptación del trivial, con opciones de respuestas para cada pregunta.
@@ -72,6 +74,7 @@ Others: Advanced Excel, Git/GitHub
 # 📁 Featured Projects #
 
 🎵 Music Trends Analysis (2000 - Present)
+
 Description: Data exploration using Spotify's API and other sources to identify music trends over time.
 
 Tools: Python, SQL, APIs, pandas
@@ -79,6 +82,7 @@ Tools: Python, SQL, APIs, pandas
 [Ver el Proyecto](https://github.com/Aniitaa7/proyecto-da-promo-k-modulo-2-team-4.git)
 
 🎮 Creating Three Classic Games with Python
+
 Description: A creative reimagining of three classic games:
 
 Question game: With multiples answers for each question.
