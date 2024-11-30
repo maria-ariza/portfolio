@@ -1,4 +1,4 @@
-# 🎯 Portfolio de Data Analyst (Español) # (English version below)
+# 🎯 Portfolio de Data Analyst (English version below) # 
 Bienvenido/a a mi portafolio de análisis de datos. Aquí encontrarás proyectos que demuestran mis habilidades y conocimientos en análisis de datos, desde la extracción y limpieza de datos hasta el análisis y visualización de insights.
 
 # 📚 Sobre mí #
