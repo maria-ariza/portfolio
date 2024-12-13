@@ -31,6 +31,7 @@ Otros
 
 # 📁 Proyectos #
 🌍 Visualización en Tableau: Mejores Ciudades para Teletrabajar
+
 Descripción: Creación de un dashboard interactivo en Tableau para analizar datos sobre las mejores ciudades para teletrabajar. Se incluyeron factores como el coste de vida, velocidad de internet, calidad de vida y clima.
 
 Habilidades aplicadas:
@@ -40,6 +41,7 @@ Habilidades aplicadas:
 [Ver el Proyecto](https://public.tableau.com/views/Lasmejoresciudadesparateletrabajar/Inicio?:language=es-ES&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 📊 Análisis de Rotación de Empleados
+
 Descripción: Diseño de una base de datos para analizar factores que afectan la rotación de empleados y su relación con la satisfacción laboral. Incluyó un experimento A/B para evaluar el impacto de una nueva política de beneficios.
 
 Habilidades aplicadas:
@@ -75,6 +77,7 @@ Habilidades aplicadas:
 [Ver el Proyecto](https://github.com/maria-ariza/juegos_clasicos_python.git)
 
 📊 Análisis de Ventas en E-commerce (En progreso)
+
 Descripción: Estudio de datos de ventas de una tienda online para identificar productos más vendidos y patrones estacionales.
 
 Habilidades aplicadas:
@@ -119,6 +122,7 @@ Others
 # 📁 Featured Projects #
 
 🌍 Tableau Visualization: Best Cities for Remote Work
+
 Description: Creation of an interactive dashboard in Tableau to analyze data on the best cities for remote work, including factors like cost of living, internet speed, quality of life, and climate.
 
 Skills applied:
@@ -128,6 +132,7 @@ Skills applied:
 [Project link](https://public.tableau.com/views/Lasmejoresciudadesparateletrabajar/Inicio?:language=es-ES&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 📊 Employee Turnover Analysis
+
 Description: Designed a database to analyze factors affecting employee turnover and their relationship with job satisfaction. Included an A/B experiment to evaluate the impact of a new benefits policy.
 
 Skills applied:
@@ -163,6 +168,7 @@ Skills applied:
 [Project link](https://github.com/maria-ariza/juegos_clasicos_python.git)
 
 📊 E-commerce Sales Analysis (In progress)
+
 Description: Study of sales data from an online store to identify top-selling products and seasonal patterns.
 
 Skills applied:
