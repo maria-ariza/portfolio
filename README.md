@@ -1,5 +1,6 @@
 # 🎯 Portfolio de Data Analyst #
 (English version below) 
+
 ¡Bienvenido/a! Este portfolio muestra proyectos que reflejan mis habilidades y experiencia en análisis de datos, desde la extracción y limpieza de datos hasta la creación de visualizaciones impactantes que impulsan la toma de decisiones.
 
 # 📚 Sobre mí #
